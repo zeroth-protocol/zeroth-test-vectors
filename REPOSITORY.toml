@@ -1,0 +1,5 @@
+name = "zeroth-test-vectors"
+visibility = "public"
+classification = "PUBLIC-PROTOCOL"
+license = "CC0-1.0"
+description = "Canonical public interoperability and cryptographic test vectors for Zeroth."
